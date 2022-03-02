@@ -47,7 +47,7 @@ The project can be modified as you see fit. There are no strict rules on how to 
 
 # 4. Results
 
-Send email to internships@flexn.io with link to your repository and include your full name in email to be recognizible. If your repository is private one then assign https://github.com/aurimasmi to be able to preview your code.
+Send email to academy.flexn.io with link to your repository and include your full name in email to be recognizible. If your repository is private one then assign https://github.com/aurimasmi to be able to preview your code.
 
 What will be evaluated:
 * Coding practises i.e. is code structurized, is linting were applied etc...
