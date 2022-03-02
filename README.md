@@ -1,6 +1,6 @@
 # 1. Introduction
 
-In this document you will find developer assignment to Flexn Academy.
+In this document you will find developer assignment to Flexn Academy. 
 
 # 2. Goal
 
