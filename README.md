@@ -30,7 +30,7 @@ The project can be modified as you see fit. There are no strict rules on how to 
 
 ### Home page
 
-![](./assets/wireframes/home.png)
+![](./assets/wireframes/home.jpg)
 
 ### Browse page
 
